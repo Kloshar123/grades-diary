@@ -1,2 +1,2 @@
-# grades-diary
-Diary for calculating grades
+# Grades Diary
+Diary for calculating your school grades
